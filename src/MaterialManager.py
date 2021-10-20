@@ -31,5 +31,5 @@ class MaterialManager:
         except:
             print("Announcement of material type is failed.")
             returnValue = False
-        finally: 
+        finally:
             return returnValue
